@@ -1,3 +1,3 @@
-## - Curso de PHP - Exemplo e exercícios
+## - Curso de PHP - Exemplos e exercícios
      Básico 
      1 - Delimitador 
